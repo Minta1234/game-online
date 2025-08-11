@@ -15,5 +15,7 @@ OR
 node server.js
 ```
   extrack zip file
-  run command in cmd 
+  
+  run command in cmd
+  
   download node js https://nodejs.org/dist/v22.18.0/node-v22.18.0-x64.msi
